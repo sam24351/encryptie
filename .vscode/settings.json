@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    ".git": true,
+    ".github": true,
+    ".gitignore": true,
+    ".gitpod": true,
+    ".gitpod.yml": true,
+    "node_modules": true,
+    "package-lock.json": true,
+    "package.json": true,
+    ".vscode": true,
+    "p5.d.ts": true,
+    "p5.global-mode.d.ts": true,
+    "replit.nix": true,
+    ".replit": true
+  }
+}
